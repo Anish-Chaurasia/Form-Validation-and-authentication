@@ -1,5 +1,8 @@
 # Form-Validation-and-authentication
 Made a form with password validation and authentication where user can register their credentials in database and login then fill the form  after submit the form the response is stored in database
+
+
+
 step to Run:-
 
 step 1 :- first add the main folder to your "xammp/htdocs" directory.
